@@ -1,0 +1,15 @@
+/* style.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #282345;
+}
+
+canvas {
+    background-image: url('./images/Stars.jpg');
+    background-size: 100% 100%;
+    border-radius: 20px;
+}
